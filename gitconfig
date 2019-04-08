@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = [A
-	name = Linn Oberbeck linnoberbeck@gmail.com
+	email = linnoberbeck@gmail.com
+	name = Linn Oberbeck
